@@ -1,7 +1,7 @@
 {
   "name": "roybot",
   "version": "1.0.0",
-  "description": "",
+  "description": "Roy from Fire Emblem doing Roy things",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
